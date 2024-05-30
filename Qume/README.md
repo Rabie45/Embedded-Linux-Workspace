@@ -1,4 +1,4 @@
-# Qume 
+# Qemu 
 ![image](https://github.com/Rabie45/Embedded-Linux/assets/76526170/e0b7e9a2-9ff7-4af2-97b4-e89942781041)
 
 ``` https://www.qemu.org/download/#linux ```
