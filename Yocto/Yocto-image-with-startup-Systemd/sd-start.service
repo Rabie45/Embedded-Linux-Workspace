@@ -1,0 +1,9 @@
+[Unit]
+Description="Hello world sysd"
+
+[Service]
+ExecStart=python3 /usr/bin/hello-startup-sysd.py
+
+
+[Install]
+WantedBy=multi-user.target
